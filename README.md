@@ -1,6 +1,6 @@
-# aplikasiandroid
+# Android Flutter
 
-A new Flutter project.
+Aplikasi android sederhana dengan menggunakan Flutter.
 
 ## Getting Started
 
